@@ -1,0 +1,49 @@
+<!-- 
+Online HTML, CSS and JavaScript editor to run code online.
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Browser</title>
+</head>
+  <style>
+    .a {
+    color : #fffff ;
+    margin-bottom : 1px ;
+    width : 200px ;
+    font : 20px verdana ;
+    background : BEIGE ;
+    padding : 18px ;
+    border : solid 1px  #cccccc  ;
+    cursor : pointer ;
+    transition : all 0.5s ease ;
+        -o-transition : all 0.5s ease ;
+
+    }
+    .a:hover {
+        transition : all 0.5s ease ;
+            -webkit-transition : all 0.5s ease ;
+
+    WIDTH : 300PX ;
+
+    background : GRAY ;
+    color :  PINK ;
+    border-bottom :solid 100 px pink;
+    
+  </style>
+
+<body>
+  <div class="a">MENU </div>
+    <div class="a">MENU </div>
+  <div class="a">MENU </div>
+  <div class="a">MENU </div>
+  <div class="a">MENU </div>
+  <div class="a">MENU </div>
+
+</body>
+
+</html>
